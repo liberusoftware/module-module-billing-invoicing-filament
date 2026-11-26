@@ -3,7 +3,7 @@
   "name": "module-billing-invoicing-filament",
   "display_name": "Billing Invoicing Filament",
   "description": "Filament 5 adapter for Billing Invoicing.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "category": "presentation",
   "provider": "Liberu\\Billing\\Invoicing\\Filament\\InvoicingFilamentServiceProvider",
   "requires": {
